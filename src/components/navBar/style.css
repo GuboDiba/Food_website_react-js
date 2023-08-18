@@ -1,0 +1,45 @@
+body{
+  /* width: fit-content; */
+}
+.nav-list {
+    display: flex;
+    gap: 1px;
+    
+  }
+  .foole{
+    font-size: xx-large;
+    font: bolder;
+  }
+  
+  .nav-list a {
+    text-decoration: none;
+    color: black;
+    /* border-bottom: none; */
+   text-align: center;
+   margin-top: 1%;
+   margin-left: 9%;
+
+  }
+  
+  .sign{
+    margin-left: 10%;
+    display: flex;
+    gap: 5px;
+    margin-right: 10%;
+
+  }
+  .sign button{
+    color: red;
+    border-radius: 20px;
+    border: red solid;
+    padding: 3%;
+    padding-left: 9%;
+    padding-right: 9%;
+    margin-left: 80%;
+    margin-top: 9%;
+
+  }
+  .sign a{
+    color: red;
+    margin-top:15%;
+  }

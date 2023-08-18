@@ -1,0 +1,23 @@
+.foood{
+    display: flex;
+    margin-top: 15%;
+    color: red;
+    margin-left: 15%;
+    margin-right: 10%;
+    justify-content: space-between;
+    font-size: x-large;
+}
+.foo{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    justify-content: space-between;
+}
+.foo ul li{
+    list-style: none;
+    line-height: 200%;
+    text-align: left;
+}
+.fooo{
+    background-color: rgb(247, 211, 217);
+}

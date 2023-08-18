@@ -1,0 +1,220 @@
+
+.foodle1{
+    display: flex;
+    margin-top: 4%;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.image1{
+    width: 40%;
+    height: 100%;
+    transform: rotate(-7deg);
+}
+.afast{
+    color: red;
+    font-size: 80px;
+    font: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.bman{
+    display: flex;
+}
+.bbm{
+    width: 6%;
+    height: 15%;
+    border-radius: 50%;
+    margin-right: 4%;
+    margin-left: 10%;
+}
+.btn1{
+    padding: 3%;
+    padding-left: 6%;
+    padding-right: 6%;
+    border: none;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    margin-top: 6%;
+}
+.sndicon{
+display: flex;
+margin-top: 3%;
+justify-content: space-between;
+margin-right: 10%;
+margin-left: 10%;
+background-color: rgb(241, 229, 231);
+padding: 2%;
+border-radius: 10px;
+box-shadow: 5px 2px 4px rgba(80, 73, 73, 0.4);
+
+}
+.delivery{
+    display: flex;
+    gap: 100px;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.delivery p{
+font-size: small;
+color: rgb(182, 176, 176);
+}
+.icon-page{
+    margin-top: 100%;
+    margin-right: 500%;
+    background-color: yellow;
+    padding: 80%;
+    border-radius: 50%;
+}
+.bestcategory{
+    display: flex;
+    margin-top: 2%;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.bestcategory p{
+    color: rgb(182, 176, 176);
+    margin-top: 6%;
+
+}
+.bestcategory h1{
+    font-size: 60px;
+    font: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.bestcategory span{
+    color: red;
+}
+
+.chicken{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 12%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 6%;
+}
+.ffst{
+    width: 100%;
+    height: 100%;
+}
+.chicken p{
+    color: red;
+}
+.regular{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+
+}
+.regular h1{
+    font-size: 60px;
+    font: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.regular span{
+    color: red;
+}
+.regular button{
+    border-radius: 50px;
+    height: 10%;
+    background-color: rgb(233, 85, 85);
+    color: white;
+    border: none;
+    padding: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-top: 7%;
+}
+.itemm{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 220px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    justify-content: space-between;
+}
+item{
+border-radius: 50%;
+}
+.imagename{
+    border-radius: 50%;
+    height: 80%;
+    width: 100%;
+    border: red solid;
+    border-width: 15px;
+}
+.buynow{
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    border: none;
+    padding: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-left: 3%;
+
+
+}
+.offers{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 25%;
+    justify-content: space-between;
+}
+.dis{
+    height: 120%;
+    width: 400%;
+    
+}
+.offe{
+    height: 50%;
+    width: 200%;
+    margin-bottom: 2%;
+    margin-left: 5%;
+}
+.tor{
+    width: 200%;
+    height: 20%;
+    margin-top: 90%;
+    margin-left: 5%;
+}
+.tweety{
+    color: white;
+    margin-top: -270%;
+    font-size: xxx-large;
+    margin-left: 5%;
+}
+.save3{
+    margin-top: -115%;
+    color: white;
+    transform: rotate(-40deg);
+    font-size: xx-large;
+    margin-left: -30%;
+
+}
+.save20{
+    color: white;
+    margin-left: 150%;
+    margin-top: -40%;
+    font-size: xxx-large;
+}
+.torrr{
+    color: white;
+    margin-top: -120%;
+    margin-left: 2%;
+}
+.fifteen{
+    color: white;
+    margin-left: 160%;
+    margin-top: -40%;
+    font-size: xxx-large;
+}
